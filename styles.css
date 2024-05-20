@@ -1,0 +1,23 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    justify-items: center;
+}
+  h2 {
+    font-family: Lobster, Monospace;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
